@@ -1,0 +1,15 @@
+body
+{
+    text-align: center;
+    color: white;
+    background: linear-gradient(90deg, rgba(7,21,31,1) 22%, rgba(10,23,33,1) 48%, rgba(7,22,33,1) 75%);
+}
+
+svg {
+    padding-top: 1.5rem;
+    font: 10px sans-serif;
+    display: block;
+    margin: auto;
+    user-select: none;
+    font-family: 'Times New Roman', serif;
+}
